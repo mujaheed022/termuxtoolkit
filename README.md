@@ -17,8 +17,8 @@ A multi-functional toolkit for Termux users, designed to provide essential utili
 ### **Installation**
 1. Clone the repository or download the script:
    ```bash
-   git clone https://github.com/PhantomTech/TermuxToolkit.git
-   cd TermuxToolkit
+   git clone https://github.com/mujaheed022/termuxtoolkit.git
+   cd termuxtoolkit
    ```
 2. Make the script executable:
    ```bash
@@ -51,3 +51,4 @@ Run the script and follow the on-screen menu to select the desired tool. Each to
 
 ### **Disclaimer**
 This tool is for educational and ethical purposes only. Use it only on systems you own or have explicit permission to test
+### By Phantom Tech ##
